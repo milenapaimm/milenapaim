@@ -33,6 +33,5 @@ main(){
         acertos++;
     }
     printf("Voce obteve %i acertos.",acertos);
-
-
+    printf ("acabou");
 }
